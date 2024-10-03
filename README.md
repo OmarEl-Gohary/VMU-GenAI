@@ -1,4 +1,4 @@
-#Stable Diffusion Model Trained on Our Selfies
+#	Stable Diffusion Model Trained on Our Selfies
 
 This repository contains a fine-tuned version of the Stable Diffusion v1.5 model (pre-trained on runwayml/stable-diffusion-v1-5), which we customized by training on a dataset of our own selfies. Using Dreambooth training techniques, the model has been fine-tuned to generate AI images that closely resemble the faces and characteristics of our team members when given specific prompts.
 
